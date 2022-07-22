@@ -1,1 +1,5 @@
+I've followed Aditya Verma for this data structure.
+Playlist: https://youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY
 
+Following files are all the concepts and codes taught by Aditya bhaiya.
+Code language: C++
