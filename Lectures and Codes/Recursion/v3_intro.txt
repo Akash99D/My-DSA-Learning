@@ -1,0 +1,7 @@
+Approaches to think for a recursive problem
+
+1. Recursive (input Output tree)
+2. Base condition - Induction-Hypothesis(IBH)
+3. Choice Diagram
+
+IBH methos for Tree and Linked list Qs.

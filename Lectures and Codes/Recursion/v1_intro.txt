@@ -1,0 +1,10 @@
+Inputs become smaller as we take certain decisions to solve the problem
+Recusrsive problem statement: 1. Choices, 2. Decision
+
+Recursion: When a function calls itself untill a specific condition is met.
+
+When there are numerous function calls waiting in memory due to recusive calling, compiler shows segmentation error or commonly known as stack overflow.
+
+Base condition: is the the condition to stop the recursive calling.
+
+In recusive tree, number of branches = number of Choices
